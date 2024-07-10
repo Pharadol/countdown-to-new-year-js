@@ -1,4 +1,4 @@
-# Countdown to New Year
+# Countdown to New Year JS
 
    This workshop is designed to help you create a New Year countdown timer using JavaScript, HTML, and CSS. The timer will display the remaining days, hours, minutes, and seconds until the next New Year.
 
